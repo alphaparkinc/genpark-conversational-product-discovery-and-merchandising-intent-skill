@@ -1,0 +1,7 @@
+[project]
+name = "genpark-conversational-product-discovery-and-merchandising-intent-skill"
+version = "1.0.0"
+description = "Semantic conversational product discovery, facet intent extraction, and merchandising ranking engine for e-commerce agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
